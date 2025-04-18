@@ -9,10 +9,10 @@
 
 ### 🚀 About Me
 
+- 👨🏻‍🎓 Year 3 Computer Science undergraduate @ NUS
+- 🏃‍♂️ Hobbies include Running, Gymming, Chess, Tetris, and Leetcoding
 - 🔭 I’m currently working on **full-stack web and mobile projects**
-- 🤖 Exploring the intersection of **AI/ML + product design**
-- 💬 Ask me about **Java, Python, React, or how to center a div**
-- 🌱 Currently diving deeper into **cloud architecture and system design**
+- 🤖 Passionate about combining AI/ML with product design to create innovative solutions
 - ⚡ Fun fact: I can debug faster with lo-fi beats 🎧
 
 ---
