@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 About Me
+### <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> About Me
 
 - 👨🏻‍🎓 Year 3 Computer Science undergraduate @ NUS
 - 🏃‍♂️ Hobbies include Running, Gymming, Chess, Tetris, and Leetcoding
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
@@ -35,7 +35,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <p align="center">
   <!-- 🏆 Trophies -->
@@ -54,17 +54,9 @@
 
 ---
 
-### 🌐 Contact Me
+### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40"> <b>Let's Connect!</b>
 
-<p align="center">
-  <a href="https://linkedin.com/in/basil-boh-81933b18b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:basil.boh001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+<p align="center"> <a href="https://linkedin.com/in/basil-boh-81933b18b/" target="_blank"> <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:basil.boh001@gmail.com"> <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/basil-boh" target="_blank"> </a> <a href="https://basil-boh.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 
 
