@@ -56,7 +56,11 @@
 
 ### <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="40"> <b>Let's Connect!</b>
 
-<p align="center"> <a href="https://linkedin.com/in/basil-boh-81933b18b/" target="_blank"> <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:basil.boh001@gmail.com"> <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/basil-boh" target="_blank"> </a> <a href="https://basil-boh.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://linkedin.com/in/basil-boh-81933b18b/" target="_blank"> <img src="https://img.shields.io/badge/Connect on LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:basil.boh001@gmail.com"> <img src="https://img.shields.io/badge/Email Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+<a href="https://github.com/basil-boh?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/basil-boh" target="_blank"> </a> <a href="https://basil-boh.netlify.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio Site-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
 
 
