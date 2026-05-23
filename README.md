@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="28"> About Me
 
-- 👨🏻‍🎓 Year 3 Computer Science undergraduate @ NUS
+- 👨🏻‍🎓 Year 4 Computer Science undergraduate @ NUS
 - 🏃‍♂️ Hobbies include Running, Gymming, Chess, Tetris, and Leetcoding
 - 🔭 I’m currently working on **full-stack web and mobile projects**
 - 🤖 Passionate about combining AI/ML with product design to create innovative solutions
