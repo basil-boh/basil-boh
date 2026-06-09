@@ -66,7 +66,7 @@
   <a href="https://github.com/basil-boh?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://basil-boh.netlify.app" target="_blank">
+  <a href="https://basil-boh.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
